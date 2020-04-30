@@ -1,0 +1,9 @@
+.timer {
+    margin: 0 auto;
+    padding-top: 300px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 120px;
+    line-height: 72px;
+}
